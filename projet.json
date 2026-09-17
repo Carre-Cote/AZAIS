@@ -1,0 +1,104 @@
+{
+  "version": 4,
+  "name": "AZAÏS",
+  "levels": [
+    {
+      "id": "level_1789637605812_zspv3",
+      "name": "RDC",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_RDC.png",
+      "rooms": [
+        {
+          "id": "r_1789637749766_olanz",
+          "name": "SALON",
+          "x": 67.66539241127629,
+          "y": 32.30037738717629,
+          "color": "#6f42c1",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789637836039_73h6h",
+          "name": "CUISINE",
+          "x": 52.27377335058531,
+          "y": 41.99480280773441,
+          "color": "#2fd53c",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789637855807_4bs6h",
+          "name": "CHAMBRE 5",
+          "x": 78.6478695174199,
+          "y": 12.137624463474824,
+          "color": "#ffff80",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1789637609797_s2b0r",
+      "name": "R+1",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_R+1.png",
+      "rooms": [
+        {
+          "id": "r_1789637905158_qi9yf",
+          "name": "COIN BUREAU/ DORTOIR",
+          "x": 62.049251996192275,
+          "y": 41.682484556876375,
+          "color": "#6f42c1",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789637924422_rzo9b",
+          "name": "CHAMBRE 4",
+          "x": 54.29212687062879,
+          "y": 48.79822970783765,
+          "color": "#3278cd",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789637950102_x1p8a",
+          "name": "DRESSING",
+          "x": 53.56132073545639,
+          "y": 38.17802118322214,
+          "color": "#9c8a67",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        }
+      ]
+    }
+  ]
+}
