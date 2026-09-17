@@ -1,0 +1,103 @@
+{
+  "version": 4,
+  "name": "AZAÏS",
+  "levels": [
+    {
+      "id": "level_1789631794753_sok2t",
+      "name": "RDC",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_RDC.png",
+      "rooms": [
+        {
+          "id": "r_1789631859579_pumn6",
+          "name": "SALON",
+          "x": 67.72936361103885,
+          "y": 32.3733901217734,
+          "color": "#6f42c1",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789631914323_su4uc",
+          "name": "CUISINE",
+          "x": 51.872070446801146,
+          "y": 42.23283298543481,
+          "color": "#13f05b",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789631966339_fro18",
+          "name": "ENTREE",
+          "x": 51.90891294572001,
+          "y": 31.894917633260583,
+          "color": "#a4a400",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789631994971_lq1kz",
+          "name": "WC 1",
+          "x": 50.17550127881494,
+          "y": 25.01709907998833,
+          "color": "#2c68d8",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789632026588_x1j87",
+          "name": "DGT 1",
+          "x": 52.728898180050216,
+          "y": 25.723956575974945,
+          "color": "#3f9803",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789632111476_lukd4",
+          "name": "BUANDERIE",
+          "x": 54.631885580902164,
+          "y": 26.791219792232123,
+          "color": "#7e5541",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1789631806728_0v886",
+      "name": "R+1",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_R+1.png",
+      "rooms": []
+    }
+  ]
+}
