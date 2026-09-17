@@ -1,0 +1,104 @@
+{
+  "version": 4,
+  "name": "AZAÏS",
+  "levels": [
+    {
+      "id": "level_1789646610775_0qrax",
+      "name": "RDC",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_RDC.png",
+      "rooms": [
+        {
+          "id": "r_1789646672913_yg183",
+          "name": "SALON",
+          "x": 65.78894514136552,
+          "y": 33.058305830583066,
+          "color": "#6f42c1",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789646685865_ffi9n",
+          "name": "CUISINE",
+          "x": 51.32222693302076,
+          "y": 42.62926292629263,
+          "color": "#6fe023",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789646699481_0rvhc",
+          "name": "CHAMBRE 1 / BUREAU",
+          "x": 81.81122444738176,
+          "y": 35.14851485148515,
+          "color": "#f0b913",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1789646615335_u5b76",
+      "name": "R+1",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_R+1.png",
+      "rooms": [
+        {
+          "id": "r_1789646879842_94t6r",
+          "name": "BUREAU",
+          "x": 61.042258653184746,
+          "y": 46.36963696369637,
+          "color": "#6f42c1",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789646898617_71tqd",
+          "name": "DRESSING",
+          "x": 50,
+          "y": 39.76897689768977,
+          "color": "#33c5d0",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1789646910657_qfhpa",
+          "name": "CHAMBRE 2",
+          "x": 68.74073475646145,
+          "y": 37.45874587458746,
+          "color": "#ef1451",
+          "content": "",
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": []
+          }
+        }
+      ]
+    }
+  ]
+}
