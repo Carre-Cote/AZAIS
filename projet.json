@@ -1,0 +1,164 @@
+{
+  "version": 4,
+  "name": "AZAÏS",
+  "levels": [
+    {
+      "id": "level_1790607093343_9xdea",
+      "name": "RDC",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_RDC.png",
+      "rooms": [
+        {
+          "id": "r_1790607169303_f0aoo",
+          "name": "CUISINE",
+          "x": 54.16786004027628,
+          "y": 42.09898447755542,
+          "color": "#6f42c1",
+          "content": "\u003ch2>CUISINE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790607194111_2821b",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790607201472_q2utn",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790607203593_gu4or",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790607222592_9kni3",
+          "name": "SALLE D'EAU 1",
+          "x": 82.6728069478868,
+          "y": 23.22294565136961,
+          "color": "#ff0000",
+          "content": "\u003ch2>SALLE D&#39;EAU 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST — \u003ca href=\"documents/MOBALPA - plan technique cuisine.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790607347112_k85je",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790607350368_15vn2",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790607353176_eh8v2",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": "documents/MOBALPA - plan technique cuisine.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1790607104494_7tymy",
+      "name": "R+1",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_R+1.png",
+      "rooms": [
+        {
+          "id": "r_1790607281472_dn0qt",
+          "name": "CHAMBRE 4",
+          "x": 51.35201996424807,
+          "y": 46.245416603012785,
+          "color": "#00ff00",
+          "content": "\u003ch2>CHAMBRE 4\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790607319056_xp22o",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790607321903_v6vn9",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790607324440_l5xal",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790607301808_qq5oj",
+          "name": "SALLE DE BAIN",
+          "x": 53.41204811703922,
+          "y": 32.48328671082657,
+          "color": "#6f42c1",
+          "content": "\u003ch2>SALLE DE BAIN\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790607328344_cputk",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790607330416_3oq4g",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790607332664_f3rvp",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
