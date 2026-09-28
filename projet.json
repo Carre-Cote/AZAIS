@@ -1,0 +1,160 @@
+{
+  "version": 4,
+  "name": "AZAÏS",
+  "levels": [
+    {
+      "id": "level_1790602663009_7o51x",
+      "name": "RDC",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_RDC.png",
+      "rooms": [
+        {
+          "id": "r_1790603622807_oxr8q",
+          "name": "SALON",
+          "x": 66.64450374508483,
+          "y": 35.25852585258526,
+          "color": "#6f42c1",
+          "content": "\u003ch2>SALON\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790603635199_k52d3",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790603642622_6bumw",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790603645543_phxdc",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790603656111_q8c0v",
+          "name": "CHAMBRE 5",
+          "x": 79.55566085575812,
+          "y": 13.58635863586359,
+          "color": "#64bd46",
+          "content": "\u003ch2>CHAMBRE 5\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST — \u003ca href=\"documents/ESTHETE CONCEPTION bibliothèque R+1 - 2026-07-07.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790603685166_2s5w4",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790603688878_gnibp",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790603691262_saawv",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": "documents/ESTHETE CONCEPTION bibliothèque R+1 - 2026-07-07.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1790603556755_g9uvo",
+      "name": "R+1",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_R+1.png",
+      "rooms": [
+        {
+          "id": "r_1790603736503_91d28",
+          "name": "BUREAU",
+          "x": 61.197783422947914,
+          "y": 47.57975797579758,
+          "color": "#ff0000",
+          "content": "\u003ch2>BUREAU\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST — \u003ca href=\"documents/LESCA - plans de repérages signés - 2026-08-27.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790603753222_1ol47",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790603757647_zk2lm",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790603759942_odlui",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": "documents/LESCA - plans de repérages signés - 2026-08-27.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790603821766_6nix0",
+          "name": "WC 3",
+          "x": 62.193141949432174,
+          "y": 32.75027502750275,
+          "color": "#00ffff",
+          "content": "\u003ch2>WC 3\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST — \u003ca href=\"documents/MOBALPA - plan technique - 2026-05-21.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790603843071_hhywb",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790603847231_tclpf",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790603849583_mwpvl",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": "documents/MOBALPA - plan technique - 2026-05-21.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
