@@ -1,0 +1,49 @@
+{
+  "version": 4,
+  "name": "AZAÏS",
+  "levels": [
+    {
+      "id": "level_1790754970384_wl79a",
+      "name": "RDC",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_RDC.png",
+      "rooms": [
+        {
+          "id": "r_1790754994928_xgg0r",
+          "name": "CUISINE",
+          "x": 52.33334164650722,
+          "y": 42.18921892189219,
+          "color": "#6f42c1",
+          "content": "\u003ch2>CUISINE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>TEST\u003c/strong> — TEST\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790755004761_w0wd1",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790755010968_zl3bp",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790755013560_10ge4",
+                "name": "TEST",
+                "detail": "TEST",
+                "pdf": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
