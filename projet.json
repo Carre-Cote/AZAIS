@@ -1,0 +1,1037 @@
+{
+  "version": 4,
+  "name": "AZAÏS",
+  "levels": [
+    {
+      "id": "level_1790860735215_ccq6d",
+      "name": "RDC",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_RDC.png",
+      "rooms": [
+        {
+          "id": "r_1790860833898_jebbf",
+          "name": "ENTREE",
+          "x": 51.831596538212004,
+          "y": 32.248383906612176,
+          "color": "#a9ff53",
+          "content": "\u003ch2>ENTREE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Meuble entrée\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Porte galandage vers salon\u003c/strong> — En attente de plans (MAN)\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan détail\u003c/strong> — Meuble entrée — \u003ca href=\"documents/ESTHETE CONCEPTION Plan meuble entrée - 2026-09-02.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLAN REPERAGE RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790860911556_nl04f",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790860936267_jnr9w",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790860970130_u3jf3",
+                "name": "Meuble entrée",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790860991250_4g6do",
+                "name": "Porte galandage vers salon",
+                "detail": "En attente de plans (MAN)",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790861049962_7uogw",
+                "name": "Plan détail",
+                "detail": "Meuble entrée",
+                "pdf": "documents/ESTHETE CONCEPTION Plan meuble entrée - 2026-09-02.pdf"
+              },
+              {
+                "id": "f_1790861071442_cd8ml",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLAN REPERAGE RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790861230682_ou9hk",
+          "name": "WC 1",
+          "x": 50.015504852801506,
+          "y": 25.27006780290364,
+          "color": "#1555ea",
+          "content": "\u003ch2>WC 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — carrelage\u003c/li>\u003cli>\u003cstrong>Sol Carrelage/Faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>WC\u003c/strong> — - Bâti-support Ingenio\u003cbr>- Plaque de commande double touche blanche\u003cbr>- Cuvette suspendue sans bride de marque ROCA de type ONA Blanc\u003cbr>- Ensemble hygiénique de marque GRB Or brossé\u003c/li>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — Comprenant :\u003cbr>-Meuble BIBA (Salgar)\u003cbr>1 tiroir BLEU MINUIT\u003cbr>Plan blanc épaisseur 12mm longueur 911 pour mur à mur\u003cbr>Hauteur tiroir : 28,2cm\u003cbr>Colori : BLEU MINUIT\u003cbr>Poignées FIBI Dorées\u003cbr>-Vasque à poser ronde colori nougat\u003cbr>Dimensions : diam 36\u003cbr>-Mitigeur de lavabo mural encastré (GRB) Or Brossé\u003cbr>Installation manette à droite et bec à gauche. Ne peut pas s&#39;inverser\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Sol Carrelage/Faïences — \u003ca href=\"documents/LESCA - PLAN REPERAGE RDC+WC 1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790861283947_b61cb",
+                "name": "Plinthes",
+                "detail": "carrelage",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790861301906_omn88",
+                "name": "Sol Carrelage/Faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790861321659_4yl8q",
+                "name": "WC",
+                "detail": "- Bâti-support Ingenio\n- Plaque de commande double touche blanche\n- Cuvette suspendue sans bride de marque ROCA de type ONA Blanc\n- Ensemble hygiénique de marque GRB Or brossé",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790861346346_maeyv",
+                "name": "MEUBLE VASQUE",
+                "detail": "Comprenant :\n-Meuble BIBA (Salgar)\n1 tiroir BLEU MINUIT\nPlan blanc épaisseur 12mm longueur 911 pour mur à mur\nHauteur tiroir : 28,2cm\nColori : BLEU MINUIT\nPoignées FIBI Dorées\n-Vasque à poser ronde colori nougat\nDimensions : diam 36\n-Mitigeur de lavabo mural encastré (GRB) Or Brossé\nInstallation manette à droite et bec à gauche. Ne peut pas s'inverser",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790861387282_chqi7",
+                "name": "Plan LESCA",
+                "detail": "Sol Carrelage/Faïences",
+                "pdf": "documents/LESCA - PLAN REPERAGE RDC+WC 1.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790861580562_foc0n",
+          "name": "DGT 1",
+          "x": 52.711557586648624,
+          "y": 25.6055331183872,
+          "color": "#4ab570",
+          "content": "\u003ch2>DGT 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLAN REPERAGE RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790861630602_1sphx",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790861646075_c9h1l",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790861672579_bqisj",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLAN REPERAGE RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790861777459_hgkog",
+          "name": "BUANDERIE",
+          "x": 55.86528038721091,
+          "y": 24.963008436620143,
+          "color": "#ffff00",
+          "content": "\u003ch2>BUANDERIE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003cli>\u003cstrong>Plan de travail\u003c/strong> — En postformé blanc 38 mm\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan de travail\u003c/strong> — postformé en blanc, 38mm d&#39;épaisseur, jambages, étagères, découpe évier (non fourni)\u003c/li>\u003cli>\u003cstrong>Evier et mitigeur\u003c/strong> — non compris au lot sanitaire\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLAN REPERAGE RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790861813947_j7cjw",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790861829891_prr9w",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790861844603_xvr79",
+                "name": "Plan de travail",
+                "detail": "En postformé blanc 38 mm",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790861862363_dj1zs",
+                "name": "Plan de travail",
+                "detail": "postformé en blanc, 38mm d'épaisseur, jambages, étagères, découpe évier (non fourni)",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790861916931_xg165",
+                "name": "Evier et mitigeur",
+                "detail": "non compris au lot sanitaire",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790861939948_bcloi",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLAN REPERAGE RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790862102667_e8boq",
+          "name": "CUISINE",
+          "x": 52.159384092289415,
+          "y": 42.372704972319504,
+          "color": "#b9954a",
+          "content": "\u003ch2>CUISINE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan technique\u003c/strong> — MOBALPA — \u003ca href=\"documents/MOBALPA - plan technique cuisine.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Sol Carrelage/Faïences — \u003ca href=\"documents/LESCA - PLAN REPERAGE RDC+CUISINE.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790862134339_drkkv",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790862151173_8r3ws",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790862161506_fvqc1",
+                "name": "Plan technique",
+                "detail": "MOBALPA",
+                "pdf": "documents/MOBALPA - plan technique cuisine.pdf"
+              },
+              {
+                "id": "f_1790862183003_8c6zd",
+                "name": "Plan LESCA",
+                "detail": "Sol Carrelage/Faïences",
+                "pdf": "documents/LESCA - PLAN REPERAGE RDC+CUISINE.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790862392946_3wtw9",
+          "name": "SALON / RECEPTION",
+          "x": 70.34728173110551,
+          "y": 36.04161514814685,
+          "color": "#6f42c1",
+          "content": "\u003ch2>SALON / RECEPTION\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — Carrelage\u003c/li>\u003cli>\u003cstrong>Carrelage\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Verrière\u003c/strong> — En attente de plans (MAN)\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage — \u003ca href=\"documents/LESCA - PLAN REPERAGE RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790862423130_q9zc2",
+                "name": "Plinthes",
+                "detail": "Carrelage",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790862434323_nvetx",
+                "name": "Carrelage",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790862455373_ftzlj",
+                "name": "Verrière",
+                "detail": "En attente de plans (MAN)",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790862470427_aar9y",
+                "name": "Plan LESCA",
+                "detail": "Carrelage",
+                "pdf": "documents/LESCA - PLAN REPERAGE RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790863106634_0jdp3",
+          "name": "CHAMBRE 5",
+          "x": 77.36885331700046,
+          "y": 14.333246107881617,
+          "color": "#ff0000",
+          "content": "\u003ch2>CHAMBRE 5\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Façades de placards\u003c/strong> — Type ‘Platine’ (Coulidoor)\u003c/li>\u003cli>\u003cstrong>Agencement intérieur\u003c/strong> — en mélaminé blanc 19 mm\u003c/li>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Pas de tête de lit prévue\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790863151204_ml6vx",
+                "name": "Parquet",
+                "detail": "(Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790863167779_ja6mm",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790863192635_hgq3b",
+                "name": "Façades de placards",
+                "detail": "Type ‘Platine’ (Coulidoor)",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790863211132_apzqs",
+                "name": "Agencement intérieur",
+                "detail": "en mélaminé blanc 19 mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790863227796_b44wy",
+                "name": "Tête de lit",
+                "detail": "Pas de tête de lit prévue",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790863301603_yba08",
+          "name": "SALLE D'EAU 1",
+          "x": 83.59510831479427,
+          "y": 23.764861846476517,
+          "color": "#00c4c4",
+          "content": "\u003ch2>SALLE D&#39;EAU 1\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Sol Carrelage/Faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>WC\u003c/strong> — - Bâti-support Ingenio\u003cbr>- Plaque de commande double touche noire mat\u003cbr>- Cuvette suspendue sans bride de marque ROCA de type ONA\u003cbr>-Ensemble hygiénique Noir\u003c/li>\u003cli>\u003cstrong>DOUCHE\u003c/strong> — Douche : \u003cbr>- Receveur VENETO 100 x 160 (brut), 93x160 (fini+retrait pour porte de douche) Blanc mat, Plaque Grille Blanche\u003cbr>-Colonne de douche thermostatique Noir mat\u003cbr>-Paroi fixe Mindy sur soubassement 65 cm\u003cbr>-Porte battante 65 cm\u003cbr>-Hauteur porte 200 cm\u003cbr>Verre transparent, 6 mm\u003c/li>\u003cli>\u003cstrong>SECHE-SERVIETTES\u003c/strong> — Sèche-serviette électrique sans soufflerie\u003cbr>Adelis Connecté (Atlantic) NOIR\u003cbr>Dimensions : 550 x 1 402 x 46\u003c/li>\u003cli>\u003cstrong>MEUBLE VASQUE\u003c/strong> — Meuble AKIDO L 120cm\u003cbr>Meuble 2 tiroirs poignées profilés encastrés noirs\u003cbr>Finition plan vasque IVORY 2 vasques carrées\u003cbr>Finition meuble CORTINA EFFET BOIS\u003cbr>Enjoliveur noir\u003cbr>Positionnement de la colonne de rangement : Collée à la cloison de la douche\u003cbr>Positionnement du meuble : collé à la colonne de rangement\u003cbr>Colonne de rangement AKIDO H179 P30 L30\u003cbr>1 Porte ouverture Droite\u003cbr>Poignée encastré NOIR MAT\u003cbr>Miroir 1200 horizontal L 1200 X 900 MM\u003cbr>Non lumineux\u003cbr>Mitigeur Lavabo noir mat \u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Niche Douche à réaliser\u003c/strong> — 30x30cm\u003c/li>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Sol Carrelage/Faïences — \u003ca href=\"documents/LESCA - PLAN REPERAGE RDC+SDE 1.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003cli>\u003cstrong>Principe paroi douche\u003c/strong> — Cloison toute hauteur sur la profondeur de la colonne de rangement + cloison de hauteur 120cm à partir du haut du receveur et 65cm de longueur en alignement et une paroi fixe de 80cm de hauteur + 1 porte battante de 65cm.\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790863355227_auazj",
+                "name": "Sol Carrelage/Faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790863375108_duc4l",
+                "name": "WC",
+                "detail": "- Bâti-support Ingenio\n- Plaque de commande double touche noire mat\n- Cuvette suspendue sans bride de marque ROCA de type ONA\n-Ensemble hygiénique Noir",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790863388164_0lhti",
+                "name": "DOUCHE",
+                "detail": "Douche : \n- Receveur VENETO 100 x 160 (brut), 93x160 (fini+retrait pour porte de douche) Blanc mat, Plaque Grille Blanche\n-Colonne de douche thermostatique Noir mat\n-Paroi fixe Mindy sur soubassement 65 cm\n-Porte battante 65 cm\n-Hauteur porte 200 cm\nVerre transparent, 6 mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790863426619_x6dm8",
+                "name": "SECHE-SERVIETTES",
+                "detail": "Sèche-serviette électrique sans soufflerie\nAdelis Connecté (Atlantic) NOIR\nDimensions : 550 x 1 402 x 46",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790863466163_7ambk",
+                "name": "MEUBLE VASQUE",
+                "detail": "Meuble AKIDO L 120cm\nMeuble 2 tiroirs poignées profilés encastrés noirs\nFinition plan vasque IVORY 2 vasques carrées\nFinition meuble CORTINA EFFET BOIS\nEnjoliveur noir\nPositionnement de la colonne de rangement : Collée à la cloison de la douche\nPositionnement du meuble : collé à la colonne de rangement\nColonne de rangement AKIDO H179 P30 L30\n1 Porte ouverture Droite\nPoignée encastré NOIR MAT\nMiroir 1200 horizontal L 1200 X 900 MM\nNon lumineux\nMitigeur Lavabo noir mat ",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790863488795_6fihd",
+                "name": "Niche Douche à réaliser",
+                "detail": "30x30cm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790863506308_hd9pn",
+                "name": "Plan LESCA",
+                "detail": "Sol Carrelage/Faïences",
+                "pdf": "documents/LESCA - PLAN REPERAGE RDC+SDE 1.pdf"
+              },
+              {
+                "id": "f_1791191615748_rc8ls",
+                "name": "Principe paroi douche",
+                "detail": "Cloison toute hauteur sur la profondeur de la colonne de rangement + cloison de hauteur 120cm à partir du haut du receveur et 65cm de longueur en alignement et une paroi fixe de 80cm de hauteur + 1 porte battante de 65cm.",
+                "pdf": ""
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790863672099_i1u59",
+          "name": "CHAMBRE 1 / BUREAU",
+          "x": 81.2718894709977,
+          "y": 36.05126486837765,
+          "color": "#ff8040",
+          "content": "\u003ch2>CHAMBRE 1 / BUREAU\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound \u003c/li>\u003cli>\u003cstrong>Plinthes \u003c/strong> — médium hydro prépeintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Façades de placards\u003c/strong> — type ‘Platine’ (Coulidoor)\u003c/li>\u003cli>\u003cstrong>Agencement intérieur\u003c/strong> — en mélaminé blanc 19 mm\u003c/li>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Pas de tête de lit prévue\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790863701075_kwvds",
+                "name": "Parquet",
+                "detail": "(Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound ",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790863724883_x8wcn",
+                "name": "Plinthes ",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790863738259_rw8nz",
+                "name": "Façades de placards",
+                "detail": "type ‘Platine’ (Coulidoor)",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790863755059_e9a4x",
+                "name": "Agencement intérieur",
+                "detail": "en mélaminé blanc 19 mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790924965442_w49hl",
+                "name": "Tête de lit",
+                "detail": "Pas de tête de lit prévue",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790863818844_s9ewv",
+          "name": "TERRASSE SUD / EST / PORCHE",
+          "x": 66.94877731339356,
+          "y": 52.046404980155735,
+          "color": "#808000",
+          "content": "\u003ch2>TERRASSE SUD / EST / PORCHE\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Carrelage sur plots\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan LESCA\u003c/strong> — Carrelage sur plots — \u003ca href=\"documents/LESCA - PLAN REPERAGE RDC.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790863858539_lg6ep",
+                "name": "Carrelage sur plots",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790863890403_aekn5",
+                "name": "Plan LESCA",
+                "detail": "Carrelage sur plots",
+                "pdf": "documents/LESCA - PLAN REPERAGE RDC.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790863968573_9ghta",
+          "name": "GARAGE / LOCAL TECHNIQUE / LOCAL RANGEMENT",
+          "x": 29.30625374240364,
+          "y": 18.91406287664853,
+          "color": "#ff80ff",
+          "content": "\u003ch2>GARAGE / LOCAL TECHNIQUE / LOCAL RANGEMENT\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Ragréage et Durcisseur\u003c/strong>\u003c/li>\u003cli>\u003cstrong>Pas de plafond placo\u003c/strong>\u003c/li>\u003cli>\u003cstrong>Murs intérieurs\u003c/strong> — Enduits lot façades\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790864019203_t0ooj",
+                "name": "Ragréage et Durcisseur",
+                "detail": "",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790864033635_u7w7f",
+                "name": "Pas de plafond placo",
+                "detail": "",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790864040067_c52cp",
+                "name": "Murs intérieurs",
+                "detail": "Enduits lot façades",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790864086715_fip8z",
+          "name": "ESCALIERS",
+          "x": 63.559723544955155,
+          "y": 23.8950181250233,
+          "color": "#c91647",
+          "content": "\u003ch2>ESCALIERS\u003c/h2>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plans détails\u003c/strong> — Escalier OSB — \u003ca href=\"documents/ESCALIER Détails OSB Azais.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [],
+            "equipements": [],
+            "divers": [
+              {
+                "id": "f_1790864169979_y2kmk",
+                "name": "Plans détails",
+                "detail": "Escalier OSB",
+                "pdf": "documents/ESCALIER Détails OSB Azais.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "level_1790860738400_dw03k",
+      "name": "R+1",
+      "plan": "plans/Azaïs - PCG ind5 - 2026-09-14_R+1.png",
+      "rooms": [
+        {
+          "id": "r_1790865365956_tnc06",
+          "name": "SALLE DE BAIN",
+          "x": 52.273374580442855,
+          "y": 32.82193674298611,
+          "color": "#6f42c1",
+          "content": "\u003ch2>SALLE DE BAIN\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Sol carrelage/faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>DOUCHE\u003c/strong> — - Receveur VENETO, 100 x 140, finition Ivory\u003cbr>- Colonne de douche encastrée thermostatique Cox\u003cbr>-Douchette ABS\u003cbr>\u003c/li>\u003cli>\u003cstrong>BAIGNOIRE\u003c/strong> — -Baignoire Catino blanche 160x70cm\u003cbr>-Douchette à main SPIRIT\u003c/li>\u003cli>\u003cstrong>PAROI ET PORTE DE DOUCHE\u003c/strong> — - Paroi fixe Mindy MI-FA L 140xH 80cm sur soubassement 120cm\u003cbr>Profilé CHROME\u003cbr>Verre transparent épaisseur 6mm\u003cbr>-Porte battante saloon L 100cm\u003cbr>Profilé CHROME\u003cbr>Verre transparent épaisseur 6mm\u003c/li>\u003cli>\u003cstrong>MEUBLE SANITAIRE\u003c/strong> — Meuble STRIATO DORE\u003cbr>1 caisson 4 tiroirs de 60cm \u003cbr>1 plan vasque double céramique\u003cbr>Poignées brossées inox\u003cbr>Positionnement du meuble : centré entre la paroi de douche et la fenêtre\u003cbr>-2 miroirs ovales 80x50 CAPSULA NOL non éclairé avec antibuée\u003cbr>- Mitigeurs lavabo Cox encastré mural\u003cbr>\u003c/li>\u003cli>\u003cstrong>SECHE-SERVIETTE\u003c/strong> — Sèche-serviettes électrique sans soufflerie\u003cbr>- Adelis Connecté (Atlantic) BLANC BRILLANT \u003cbr>-Dimensions : 550 x 1 402 x 120\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Niche douche à réaliser\u003c/strong> — 50x30cm\u003c/li>\u003cli>\u003cstrong>PLAN LESCA\u003c/strong> — Sol Carrelage/Faïences — \u003ca href=\"documents/LESCA - PLAN REPERAGE R+1+SDB.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790865800773_d7lpg",
+                "name": "Sol carrelage/faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790865574413_8m6yp",
+                "name": "DOUCHE",
+                "detail": "- Receveur VENETO, 100 x 140, finition Ivory\n- Colonne de douche encastrée thermostatique Cox\n-Douchette ABS\n",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790865604541_ijkpn",
+                "name": "BAIGNOIRE",
+                "detail": "-Baignoire Catino blanche 160x70cm\n-Douchette à main SPIRIT",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790865639628_we7ao",
+                "name": "PAROI ET PORTE DE DOUCHE",
+                "detail": "- Paroi fixe Mindy MI-FA L 140xH 80cm sur soubassement 120cm\nProfilé CHROME\nVerre transparent épaisseur 6mm\n-Porte battante saloon L 100cm\nProfilé CHROME\nVerre transparent épaisseur 6mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790865666444_4vtgw",
+                "name": "MEUBLE SANITAIRE",
+                "detail": "Meuble STRIATO DORE\n1 caisson 4 tiroirs de 60cm \n1 plan vasque double céramique\nPoignées brossées inox\nPositionnement du meuble : centré entre la paroi de douche et la fenêtre\n-2 miroirs ovales 80x50 CAPSULA NOL non éclairé avec antibuée\n- Mitigeurs lavabo Cox encastré mural\n",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790865714309_j6hh5",
+                "name": "SECHE-SERVIETTE",
+                "detail": "Sèche-serviettes électrique sans soufflerie\n- Adelis Connecté (Atlantic) BLANC BRILLANT \n-Dimensions : 550 x 1 402 x 120",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790865742004_vye1x",
+                "name": "Niche douche à réaliser",
+                "detail": "50x30cm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790865864420_568a8",
+                "name": "PLAN LESCA",
+                "detail": "Sol Carrelage/Faïences",
+                "pdf": "documents/LESCA - PLAN REPERAGE R+1+SDB.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790865955389_2hqs2",
+          "name": "DRESSING",
+          "x": 50.717218327035404,
+          "y": 38.457886618188255,
+          "color": "#ffb693",
+          "content": "\u003ch2>DRESSING\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Meuble de dressing\u003c/strong> — en mélaminé blanc 19 mm\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790865985797_1v3rl",
+                "name": "Parquet",
+                "detail": "(Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790866037389_iroux",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790866140157_0mc5h",
+                "name": "Meuble de dressing",
+                "detail": "en mélaminé blanc 19 mm",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790866209309_72nzq",
+          "name": "CHAMBRE 4",
+          "x": 51.37406054240909,
+          "y": 46.3749017586242,
+          "color": "#68b54f",
+          "content": "\u003ch2>CHAMBRE 4\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — - (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound \u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Façades de placards\u003c/strong> — type ‘Platine’ (Coulidoor)\u003c/li>\u003cli>\u003cstrong>Agencement intérieur\u003c/strong> — en mélaminé blanc 19 mm\u003c/li>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Pas de tête de lit prévue\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790866375270_6jtuf",
+                "name": "Parquet",
+                "detail": "- (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound ",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790866390981_ravkz",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790866293813_sp94t",
+                "name": "Façades de placards",
+                "detail": "type ‘Platine’ (Coulidoor)",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790866336244_ask1j",
+                "name": "Agencement intérieur",
+                "detail": "en mélaminé blanc 19 mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790925074703_vp3x8",
+                "name": "Tête de lit",
+                "detail": "Pas de tête de lit prévue",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790866435893_ikp18",
+          "name": "WC 2",
+          "x": 61.913950422841076,
+          "y": 33.06861528092915,
+          "color": "#3d17ec",
+          "content": "\u003ch2>WC 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003cli>\u003cstrong>Sol carrelage/faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>WC\u003c/strong> — - Bâti-support Ingenio\u003cbr>- Plaque de commande double touche blanche\u003cbr>- Cuvette suspendue sans bride de marque ROCA de type ONA Blanc\u003cbr>- Ensemble hygiénique équipé d&#39;une douchette de marque GRB Chrome\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>PLAN LESCA\u003c/strong> — Sol Carrelage/Faïences — \u003ca href=\"documents/LESCA - PLAN REPERAGE R+1+WC 2.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790866524933_qesh8",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790866573557_8ll12",
+                "name": "Sol carrelage/faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790866478925_dl0eb",
+                "name": "WC",
+                "detail": "- Bâti-support Ingenio\n- Plaque de commande double touche blanche\n- Cuvette suspendue sans bride de marque ROCA de type ONA Blanc\n- Ensemble hygiénique équipé d'une douchette de marque GRB Chrome",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790866617797_qcnl8",
+                "name": "PLAN LESCA",
+                "detail": "Sol Carrelage/Faïences",
+                "pdf": "documents/LESCA - PLAN REPERAGE R+1+WC 2.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790866706348_b8676",
+          "name": "PALIER",
+          "x": 60.315907051865665,
+          "y": 38.99407338721172,
+          "color": "#ffff00",
+          "content": "\u003ch2>PALIER\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — - (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790866744853_alx8y",
+                "name": "Parquet",
+                "detail": "- (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790866760677_n7f0i",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790866829517_txxbj",
+          "name": "COIN BUREAU / DORTOIR",
+          "x": 60.85169542235017,
+          "y": 46.499570529155456,
+          "color": "#5fa58f",
+          "content": "\u003ch2>COIN BUREAU / DORTOIR\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — - (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Bibliothèque\u003c/strong> — Voir plan de détail dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Plan de détail\u003c/strong> — Bibliothèque — \u003ca href=\"documents/ESTHETE CONCEPTION bibliothèque R+1 - 2026-07-07.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790867085508_wpcpe",
+                "name": "Parquet",
+                "detail": "- (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790867103109_iyinm",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790866864293_11jtt",
+                "name": "Bibliothèque",
+                "detail": "Voir plan de détail dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790866915789_so8sq",
+                "name": "Plan de détail",
+                "detail": "Bibliothèque",
+                "pdf": "documents/ESTHETE CONCEPTION bibliothèque R+1 - 2026-07-07.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790867578741_atc2j",
+          "name": "CHAMBRE 2",
+          "x": 70.74792987896619,
+          "y": 34.23574517445762,
+          "color": "#ff0000",
+          "content": "\u003ch2>CHAMBRE 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — - (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Façades de placard\u003c/strong> — type ‘Platine’ (Coulidoor)\u003c/li>\u003cli>\u003cstrong>Agencement intérieur\u003c/strong> — en mélaminé blanc 19 mm\u003c/li>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Pas de tête de lit prévue\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790867639269_urfgm",
+                "name": "Parquet",
+                "detail": "- (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790867656141_8fy5f",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790867597309_i2yct",
+                "name": "Façades de placard",
+                "detail": "type ‘Platine’ (Coulidoor)",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790867615861_y13zp",
+                "name": "Agencement intérieur",
+                "detail": "en mélaminé blanc 19 mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790924994979_336h7",
+                "name": "Tête de lit",
+                "detail": "Pas de tête de lit prévue",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790867766733_hhp0t",
+          "name": "SALLE D'EAU 2",
+          "x": 74.63457924211328,
+          "y": 34.01476504864254,
+          "color": "#eb18eb",
+          "content": "\u003ch2>SALLE D&#39;EAU 2\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — - (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003cli>\u003cstrong>Sol carrelage/faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>DOUCHE\u003c/strong> — -Receveur SIGNATURE, 100 x 110\u003cbr>Finition IVORY 315\u003cbr>Mitigeur thermostatique laiton entraxe 150 +/- 20 mm\u003cbr>-Colonne de douche métal télescopique sur 390 mm (non recoupable)\u003cbr>Douche de tête\u003cbr>Douchette à main\u003cbr>\u003c/li>\u003cli>\u003cstrong>PORTE DOUCHE\u003c/strong> — Mindy MI-PFL comprenant :\u003cbr>-Porte battante IN/OUT\u003cbr>-Extension : 106-110cm\u003cbr>-Hauteur porte 200cm\u003cbr>-Profilés chromés\u003cbr>-Verre transparent, épaisseur : 6mm\u003c/li>\u003cli>\u003cstrong>MEUBLE SANITAIRE\u003c/strong> — Meuble CANOPEE 70cm et niche 30cm avec vasque à encastrer par-dessus + plan 110cm\u003cbr>1 meuble couleur CRAIE SDE 2\u003cbr>1 meuble couleur VERT CELADON SDE 3\u003cbr>2 tiroirs\u003cbr>Dimensions : 703x512x493\u003cbr>Finitions laquées mates et poignées couleur soie\u003cbr>Niche côté droit (face au meuble)\u003cbr>Dimensions : L302xH433xP492\u003cbr>-Plan Laqué CRAIE et VERT CELADON\u003cbr>Dimensions : L 11 00xH433xP492\u003cbr>-Vasque à encastrer par le dessus CRONO\u003cbr>Dimensions : L600xH155xP420\u003cbr>Céramique blanche\u003cbr>-Mitigeur Cox (Paini)\u003cbr>-Miroir ORGANIC avec LED lumière\u003cbr>\u003c/li>\u003cli>\u003cstrong>SECHE-SERVIETTES\u003c/strong> — Sèche-serviettes électrique sans soufflerie\u003cbr>-Adelis Connecté (Atlantic) BLANC BRILLANT\u003cbr>-Dimensions : 556 x 1 027 x 105\u003cbr>\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Niche douche à réaliser\u003c/strong> — 30x30 cm\u003c/li>\u003cli>\u003cstrong>PLAN LESCA\u003c/strong> — Sol Carrelage/Faïences — \u003ca href=\"documents/LESCA - PLAN REPERAGE R+1+SDE 2.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790868045245_zjjsc",
+                "name": "Parquet",
+                "detail": "- (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868079861_javnk",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868094006_hjore",
+                "name": "Sol carrelage/faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790867840093_hcff6",
+                "name": "DOUCHE",
+                "detail": "-Receveur SIGNATURE, 100 x 110\nFinition IVORY 315\nMitigeur thermostatique laiton entraxe 150 +/- 20 mm\n-Colonne de douche métal télescopique sur 390 mm (non recoupable)\nDouche de tête\nDouchette à main\n",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790867881389_3uym2",
+                "name": "PORTE DOUCHE",
+                "detail": "Mindy MI-PFL comprenant :\n-Porte battante IN/OUT\n-Extension : 106-110cm\n-Hauteur porte 200cm\n-Profilés chromés\n-Verre transparent, épaisseur : 6mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790867926093_8t9oi",
+                "name": "MEUBLE SANITAIRE",
+                "detail": "Meuble CANOPEE 70cm et niche 30cm avec vasque à encastrer par-dessus + plan 110cm\n1 meuble couleur CRAIE SDE 2\n1 meuble couleur VERT CELADON SDE 3\n2 tiroirs\nDimensions : 703x512x493\nFinitions laquées mates et poignées couleur soie\nNiche côté droit (face au meuble)\nDimensions : L302xH433xP492\n-Plan Laqué CRAIE et VERT CELADON\nDimensions : L 11 00xH433xP492\n-Vasque à encastrer par le dessus CRONO\nDimensions : L600xH155xP420\nCéramique blanche\n-Mitigeur Cox (Paini)\n-Miroir ORGANIC avec LED lumière\n",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790867999925_yzj1l",
+                "name": "SECHE-SERVIETTES",
+                "detail": "Sèche-serviettes électrique sans soufflerie\n-Adelis Connecté (Atlantic) BLANC BRILLANT\n-Dimensions : 556 x 1 027 x 105\n",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790868185029_r7iqe",
+                "name": "Niche douche à réaliser",
+                "detail": "30x30 cm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868216149_lm1ch",
+                "name": "PLAN LESCA",
+                "detail": "Sol Carrelage/Faïences",
+                "pdf": "documents/LESCA - PLAN REPERAGE R+1+SDE 2.pdf"
+              }
+            ]
+          }
+        },
+        {
+          "id": "r_1790868299821_wberh",
+          "name": "CHAMBRE 3",
+          "x": 70.45391860110527,
+          "y": 48.96534330430063,
+          "color": "#0cf8da",
+          "content": "\u003ch2>CHAMBRE 3\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — - (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>Façades de placard\u003c/strong> — type ‘Platine’ (Coulidoor)\u003c/li>\u003cli>\u003cstrong>Agencement intérieur\u003c/strong> — en mélaminé blanc 19 mm\u003c/li>\u003cli>\u003cstrong>Tête de lit\u003c/strong> — Pas de tête de lit prévue\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790868430622_lr3e9",
+                "name": "Parquet",
+                "detail": "- (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868446198_3lmgo",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790868377462_blmy1",
+                "name": "Façades de placard",
+                "detail": "type ‘Platine’ (Coulidoor)",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868403254_ux94q",
+                "name": "Agencement intérieur",
+                "detail": "en mélaminé blanc 19 mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790925062122_j61yf",
+                "name": "Tête de lit",
+                "detail": "Pas de tête de lit prévue",
+                "pdf": ""
+              }
+            ],
+            "divers": []
+          }
+        },
+        {
+          "id": "r_1790868532393_afc9s",
+          "name": "SALLE D'EAU 3",
+          "x": 74.87640417548926,
+          "y": 47.90040431329147,
+          "color": "#a5715a",
+          "content": "\u003ch2>SALLE D&#39;EAU 3\u003c/h2>\u003ch3>Matériaux\u003c/h3>\u003cul>\u003cli>\u003cstrong>Parquet\u003c/strong> — - (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound\u003c/li>\u003cli>\u003cstrong>Plinthes\u003c/strong> — médium hydro prépeintes\u003c/li>\u003cli>\u003cstrong>Sol carrelage/faïences\u003c/strong> — Voir plan de LESCA dans &quot;Divers&quot;\u003c/li>\u003c/ul>\u003ch3>Équipements\u003c/h3>\u003cul>\u003cli>\u003cstrong>DOUCHE\u003c/strong> — Receveur SIGNATURE 100 x 110 ;\u003cbr>Finition IVORY 315\u003cbr>-Colonne de douche LOGGIA CONFORT\u003cbr>Mitigeur thermostatique laiton entraxe 150 +/- 20 mm\u003cbr>Colonne de douche métal télescopique sur 390 mm (non recoupable)\u003cbr>Douche de tête\u003cbr>Douchette à main\u003c/li>\u003cli>\u003cstrong>PORTE DE DOUCHE\u003c/strong> — -Porte battante IN/OUT\u003cbr>-Extension : 106-110cm\u003cbr>-Hauteur porte 200cm\u003cbr>-Profilés chromés\u003cbr>-Verre transparent, épaisseur :6 mm\u003c/li>\u003cli>\u003cstrong>MEUBLE SANITAIRE\u003c/strong> — -Meuble CANOPEE 70cm et niche 30cm avec vasque à encastrer par-dessus + plan 110cm\u003cbr>1 meuble couleur CRAIE SDE 2\u003cbr>1 meuble couleur VERT CELADON SDE 3\u003cbr>2 tiroirs\u003cbr>Dimensions : 703x512x493\u003cbr>Niche côté droit (face au meuble)\u003cbr>Dimensions : L302xH433xP492\u003cbr>-Plan Laqué CRAIE et VERT CELADON\u003cbr>Dimensions : L 11 00xH433xP492\u003cbr>-Vasque à encastrer par le dessus CRONO\u003cbr>Dimensions : L600xH155xP420\u003cbr>Céramique blanche\u003cbr>-Mitigeur Cox (Paini)\u003cbr>-Miroir ORGANIC 600 avec LED lumière\u003c/li>\u003cli>\u003cstrong>SECHE-SERVIETTES\u003c/strong> — Sèche-serviettes électrique sans soufflerie\u003cbr>Adelis Connecté (Atlantic) BLANC BRILLANT \u003cbr>Dimensions : 556 x 1 027 x 105\u003c/li>\u003c/ul>\u003ch3>Divers\u003c/h3>\u003cul>\u003cli>\u003cstrong>Niche douche à réaliser\u003c/strong> — 30x30 cm\u003c/li>\u003cli>\u003cstrong>PLAN LESCA\u003c/strong> — Sol Carrelage/Faïences — \u003ca href=\"documents/LESCA - PLAN REPERAGE R+1+SDE 3.pdf\" target=\"_blank\" rel=\"noopener\">Consulter le PDF\u003c/a>\u003c/li>\u003c/ul>",
+          "commentEnabled": true,
+          "fiche": {
+            "intro": "",
+            "materiaux": [
+              {
+                "id": "f_1790868698154_utguu",
+                "name": "Parquet",
+                "detail": "- (Quick-Step) SIG4762 Chêne chaud naturel brossé, y compris sous-couche Unisound",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868717644_h2jsc",
+                "name": "Plinthes",
+                "detail": "médium hydro prépeintes",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868765737_3g00v",
+                "name": "Sol carrelage/faïences",
+                "detail": "Voir plan de LESCA dans \"Divers\"",
+                "pdf": ""
+              }
+            ],
+            "equipements": [
+              {
+                "id": "f_1790868565020_q1okc",
+                "name": "DOUCHE",
+                "detail": "Receveur SIGNATURE 100 x 110 ;\nFinition IVORY 315\n-Colonne de douche LOGGIA CONFORT\nMitigeur thermostatique laiton entraxe 150 +/- 20 mm\nColonne de douche métal télescopique sur 390 mm (non recoupable)\nDouche de tête\nDouchette à main",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868582054_s9urx",
+                "name": "PORTE DE DOUCHE",
+                "detail": "-Porte battante IN/OUT\n-Extension : 106-110cm\n-Hauteur porte 200cm\n-Profilés chromés\n-Verre transparent, épaisseur :6 mm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868597704_l76dd",
+                "name": "MEUBLE SANITAIRE",
+                "detail": "-Meuble CANOPEE 70cm et niche 30cm avec vasque à encastrer par-dessus + plan 110cm\n1 meuble couleur CRAIE SDE 2\n1 meuble couleur VERT CELADON SDE 3\n2 tiroirs\nDimensions : 703x512x493\nNiche côté droit (face au meuble)\nDimensions : L302xH433xP492\n-Plan Laqué CRAIE et VERT CELADON\nDimensions : L 11 00xH433xP492\n-Vasque à encastrer par le dessus CRONO\nDimensions : L600xH155xP420\nCéramique blanche\n-Mitigeur Cox (Paini)\n-Miroir ORGANIC 600 avec LED lumière",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868625915_f1vno",
+                "name": "SECHE-SERVIETTES",
+                "detail": "Sèche-serviettes électrique sans soufflerie\nAdelis Connecté (Atlantic) BLANC BRILLANT \nDimensions : 556 x 1 027 x 105",
+                "pdf": ""
+              }
+            ],
+            "divers": [
+              {
+                "id": "f_1790868796988_jvupq",
+                "name": "Niche douche à réaliser",
+                "detail": "30x30 cm",
+                "pdf": ""
+              },
+              {
+                "id": "f_1790868824454_d67sg",
+                "name": "PLAN LESCA",
+                "detail": "Sol Carrelage/Faïences",
+                "pdf": "documents/LESCA - PLAN REPERAGE R+1+SDE 3.pdf"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
